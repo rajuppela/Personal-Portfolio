@@ -1,0 +1,67 @@
+body {background-color: cornsilk;}
+ul {
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    position: fixed;
+    top: 0px;
+    width: 100%;
+}
+.nav {
+    float: right;
+}
+.nav a {
+    display: block;
+    text-decoration: none;
+    text-align: center;
+    color: crimson;
+    padding: 8px 25px;
+    margin-right: 10px;
+}
+h1 {
+    color: lightslategray;
+}
+span {
+    color: red;
+}
+#home, p, h1 {
+    display: inline-block;
+    background-color: bisque;
+    padding: 25px;
+    margin: 10px;
+}
+h1, b, i, span {
+    display: inline;
+    background-color: bisque;
+}
+aside {
+    float: right;
+    margin-right: 30px;
+}
+#skills, #projects, #contact {
+    background-color: bisque;
+    padding: 25px;
+    margin: 10px;
+}
+.skill {
+    list-style-type: circle;
+    background-color: bisque;
+    margin-left: 10px;
+    padding: 10px;
+}
+.project {
+    list-style-type: none;
+    background-color: bisque;
+    margin-left: 10px;
+    padding: 10px;
+}
+table, tr, td {
+background-color: bisque;
+padding: 10px;
+margin-left: 10px;
+}
+h3 {
+    display: inline-block;
+    padding: 20px;
+    background-color: bisque;
+}
